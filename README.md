@@ -7,17 +7,17 @@ It allows users to create accounts, deposit and withdraw funds, and view their a
 
 <h1>Features</h1>
 
-    Create account<br>
-    Deposit funds<br>
-    Withdraw funds<br>
-    View account balance<br>
+    Create account
+    Deposit funds
+    Withdraw funds
+    View account balance
 
 <h1>Installation</h1>
 
-    Clone or download the repository to your local machine.<br>
-    Open the terminal/command prompt and navigate to the project directory.<br>
-    Compile the main.cpp file using a C++ compiler such as GCC or Clang.<br>
-    Run the compiled executable file.<br>
+    Clone or download the repository to your local machine.
+    Open the terminal/command prompt and navigate to the project directory.
+    Compile the main.cpp file using a C++ compiler such as GCC or Clang.
+    Run the compiled executable file.
 
 <h1>Date</h1>
 
